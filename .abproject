@@ -1,0 +1,36 @@
+{
+  "ProjectName": "SimpleDuotoneBallLottery",
+  "ProjectGuid": "6e6783e3-9ecb-44b1-b631-4341d1aed80f",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SimpleDuotoneBallLottery",
+  "DisplayName": "SimpleDuotoneBallLottery",
+  "Author": "",
+  "Description": "SimpleDuotoneBallLottery",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{70cf4b3e-fe7e-4045-888c-84cbd917ce19}",
+  "WP8ProductID": "{fc58efcd-f336-4cbf-a58d-ff7f84e5c9bd}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
